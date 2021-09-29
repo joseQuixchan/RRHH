@@ -1,0 +1,18 @@
+C:\proyectoWeb\desarrollo-web-api_backend\api\soluc_api\Datos\bin\Debug\Datos.dll
+C:\proyectoWeb\desarrollo-web-api_backend\api\soluc_api\Datos\bin\Debug\Datos.pdb
+C:\proyectoWeb\desarrollo-web-api_backend\api\soluc_api\Datos\bin\Debug\Entidades.dll
+C:\proyectoWeb\desarrollo-web-api_backend\api\soluc_api\Datos\bin\Debug\Entidades.pdb
+C:\proyectoWeb\desarrollo-web-api_backend\api\soluc_api\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\proyectoWeb\desarrollo-web-api_backend\api\soluc_api\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\proyectoWeb\desarrollo-web-api_backend\api\soluc_api\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\proyectoWeb\desarrollo-web-api_backend\api\soluc_api\Datos\obj\Debug\Datos.dll
+C:\proyectoWeb\desarrollo-web-api_backend\api\soluc_api\Datos\obj\Debug\Datos.pdb
+C:\Users\José Quixchán\Desktop\api\soluc_api\Datos\bin\Debug\Datos.dll
+C:\Users\José Quixchán\Desktop\api\soluc_api\Datos\bin\Debug\Datos.pdb
+C:\Users\José Quixchán\Desktop\api\soluc_api\Datos\bin\Debug\Entidades.dll
+C:\Users\José Quixchán\Desktop\api\soluc_api\Datos\bin\Debug\Entidades.pdb
+C:\Users\José Quixchán\Desktop\api\soluc_api\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\José Quixchán\Desktop\api\soluc_api\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\José Quixchán\Desktop\api\soluc_api\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\José Quixchán\Desktop\api\soluc_api\Datos\obj\Debug\Datos.dll
+C:\Users\José Quixchán\Desktop\api\soluc_api\Datos\obj\Debug\Datos.pdb
