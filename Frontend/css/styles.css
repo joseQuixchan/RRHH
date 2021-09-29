@@ -1,0 +1,35 @@
+button{
+    margin: 20px;
+}
+
+.contenedor{
+    display: flex;
+    /**flex: auto;**/
+    justify-content: space-between;
+    
+}
+
+.contenedor-formulario{
+    border-style: solid;
+    border-color: #b5b5b5;
+    border-width: 5px;
+    margin: 0 0;
+} 
+
+.bandejas{
+    max-width: 100%;
+}
+
+.contenedor-datos{
+    border-style: solid;
+    border-color: #b5b5b5;
+    border-width: 5px;
+}
+
+.botones{
+    display: flex;
+    justify-content: space-between;
+}
+.hola{
+    max-width: 50%;
+}

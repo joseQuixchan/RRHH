@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<link rel="stylesheet" href="css/styleslogin.css">
+	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.0.2/dist/sweetalert2.all.min.js"></script>
+
+	<title>Bienvenido</title>
+</head>
+<body >
+	<div class="wrapper fadeInDown">
+		<div id="formContent">
+		  <!-- Tabs Titles -->
+	  
+		  <!-- Icon -->
+		  <div class="fadeIn first">
+			<img src="img/Login.png" class="icono" id="icon" alt="User Icon" />
+		  </div>
+	  
+		  <!-- Login Form -->
+		 <!-- <form>-->
+			<input type="text" id="TxtEmail" class="fadeIn second" name="login" placeholder="Correo Electronico">
+			<input type="text" id="TxtPassword" class="fadeIn second" name="login" placeholder="Password">
+			<!--<input type="submit" class="fadeIn fourth" value="Log In" onclick="iniciodesesion();">-->
+		 <!-- </form>-->
+		  
+		  	<button  type="button" class="btn btn-primary btn-lg btn-block boton" onclick="iniciodesesion();">
+				Login
+			</button>
+	  
+		  <!-- Remind Passowrd -->
+		  <div id="formFooter">
+			<a class="underlineHover" href="#">Forgot Password?</a>
+		  </div>
+	  
+		</div>
+	</div>
+		<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+		<script src="js/Login.js"></script>
+</body>
+</html>
