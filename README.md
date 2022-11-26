@@ -1,2 +1,2 @@
 # RRHH
-Control de Personal
+Control de Personal en Api Rest y JacaScript
